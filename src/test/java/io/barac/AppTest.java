@@ -1,4 +1,4 @@
-package tn.baracio;
+package io.barac;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

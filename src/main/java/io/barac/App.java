@@ -1,4 +1,4 @@
-package tn.baracio;
+package io.barac;
 
 /**
  * Hello world!

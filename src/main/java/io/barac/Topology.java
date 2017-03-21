@@ -1,4 +1,4 @@
-package tn.baracio;
+package io.barac;
 
 import org.apache.storm.Config;
 import org.apache.storm.LocalCluster;

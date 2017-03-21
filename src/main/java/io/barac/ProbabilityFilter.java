@@ -1,4 +1,4 @@
-package tn.baracio;
+package io.barac;
 
 import org.apache.storm.topology.BasicOutputCollector;
 import org.apache.storm.topology.OutputFieldsDeclarer;
